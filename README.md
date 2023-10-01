@@ -9,7 +9,8 @@ To install and run this project locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine
 ```shell
-https://github.com/Ssnnee/quote-generator
+git clone https://github.com/Ssnnee/quote-generator
+cd ./quote-generator
 ```
 2. Open the `index.html` file in your browser.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
