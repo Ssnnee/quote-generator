@@ -16,9 +16,9 @@ cd ./quote-generator
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Usage
-Using the Quote Generator is straightforward. Once you've navigated to the website, you'll see a button labeled 'Generate Quote'.
+Using the Quote Generator is straightforward. Once you've navigated to the website, you'll see a button labeled `Generate Quote`.
 Clicking this button will generate a new quote and display it on the screen. If you find a quote that you'd like to share on Twitter,
-simply click the 'Tweet Quote' button, and you will be redirected to Twitter with a pre-populated tweet containing the quote.
+simply click the `Tweet Quote` button, and you will be redirected to Twitter with a pre-populated tweet containing the quote.
 
 ## Code
 The Quote Generator is built with HTML, CSS, and JavaScript. The quotes are fetched from an API, and the Twitter functionality is implemented using Twitter's Web Intents.
