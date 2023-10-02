@@ -4,6 +4,9 @@
 The Quote Generator is a simple and intuitive website that generates quotes at the click of a button.
 It also provides the functionality to tweet these quotes directly from the application, providing an easy way to share your favorite quotes on social media.
 
+## Try it your self
+[Here you can try] (ssnnee.github.io/quote-generator)
+
 ## Installating
 To install and run this project locally on your machine, follow these steps:
 
