@@ -50,7 +50,6 @@ async function getQuotes() {
     apiQuotes = await response.json();
     newQuote();
   } catch (error) {
-    // Catch Error Here
   }
 }
 
@@ -60,7 +59,6 @@ function tweetQuote() {
   window.open(twitterUrl, '_blank');
 }
 
-// Event Listeners
 newQuoteBtn.addEventListener('click', newQuote);
 twitterBtn.addEventListener('click', tweetQuote);
 
