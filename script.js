@@ -59,6 +59,7 @@ function tweetQuote() {
   window.open(twitterUrl, '_blank');
 }
 
+// Event Listerner
 newQuoteBtn.addEventListener('click', newQuote);
 twitterBtn.addEventListener('click', tweetQuote);
 
